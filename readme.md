@@ -1,9 +1,13 @@
 # The Values Encoded in Machine Learning Research
 
-## Paper
+*[Paper]()*
 
-### bibtex
-
+@article{valuesInML2021,
+  title={The Values Encoded in Machine Learning Research},
+  author={Birhane, Abeba and Kalluri, Pratyusha and Card, Dallas and Agnew, William and Dotan, Ravit and Bao, Michelle},
+  journal={arXiv preprint arXiv:},
+  year={2021}
+}
 
 ## Abstract
 
