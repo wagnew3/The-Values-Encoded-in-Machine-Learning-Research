@@ -2,7 +2,7 @@
 
 *[Paper]()*
 
-*Bibtex*
+*Bibtex*\
 @article{valuesInML2021,\
   title={The Values Encoded in Machine Learning Research},\
   author={Birhane, Abeba and Kalluri, Pratyusha and Card, Dallas and Agnew, William and Dotan, Ravit and Bao, Michelle},\
