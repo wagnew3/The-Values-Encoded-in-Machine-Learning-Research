@@ -19,4 +19,5 @@ Machine learning (ML) currently exerts an outsized influence on the world, incre
 - annotations_anon.xlsx: raw annotations
 - code-for-appendix.zip: replication code for experiments in Appendix
 
-
+## Additional Dependancies
+- [pdftotext](https://pypi.org/project/pdftotext/)
