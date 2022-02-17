@@ -1,0 +1,103 @@
+Paper	Year	Any University Affiliation	Elite University Affiliation (2018)	Non-Elite University Affiliation	Non-NA University Affiliation	Military Affiliation	Corporate Affiliation	Other Affiliation	No corp or elite	Notes
+A Unified Architecture for Natural Language Processing:Deep Neural Networks with Multitask Learning	2008	0	0	0	0	0	0	1	1	NEC labs
+Deflation Methods for Sparse PCA	2008	1	1	0	0	0	0	0	0	
+Local Gaussian Process Regressionfor Real Time Online Model Learning and Control	2008	1	0	1	1	0	0	0	1	Max Plank
+Online Metric Learning and Fast Similarity Search	2008	1	1	0	0	0	0	0	0	
+NonrigidStructure from Motion in Trajectory Space	2008	1	1	1	1	0	0	0	0	
+Multi-Label Prediction via Compressed Sensing	2009	1	1	1	0	0	1	0	0	
+Guaranteed Rank Minimization via Singular ValueProjection	2009	1	1	0	0	0	1	0	0	
+Replicated Softmax: an Undirected Topic Model	2009	1	1	0	0	0	0	0	0	
+Which Training Methods for GANs do actually Converge?	2018	1	1	1	1	0	1	0	0	
+Disentangling by Factorising	2018	1	1	0	1	0	1	0	0	
+Addressing Function Approximation Error in Actor-Critic Methods	2018	1	0	1	1	0	0	0	1	McGill, Amsterdam
+IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures	2018	0	0	0	0	0	1	0	0	
+Rethinking LDA: Why Priors Matter	2009	1	1	0	0	0	0	0	0	
+On Exact Computation with an Infinitely WideNeural Net	2019	1	1	0	0	0	0	0	0	
+PyTorch: An Imperative Style, High-PerformanceDeep Learning Library	2019	1	1	1	1	0	1	0	0	
+Adversarial Training and Robustness forMultiple Perturbations	2019	1	1	0	0	0	0	0	0	
+Hierarchical Graph Representation Learning with Differentiable Pooling	2018	1	1	1	1	0	0	0	0	
+On the Quantitative Analysis of Deep Belief Networks	2008	1	1	0	0	0	0	0	0	
+Feature hashing for large scale multitask learning	2009	0	0	0	0	0	1	0	0	
+The Recurrent Temporal Restricted Boltzmann Machine	2008	1	1	0	0	0	0	0	0	
+Privacy-preserving logistic regression	2008	1	1	0	0	0	0	0	0	
+Clustered Multi-Task Learning: a Convex Formulation	2008	1	1	0	1	0	0	1	0	
+Learning Structural SVMs with Latent Variables	2009	1	1	0	0	0	0	0	0	
+Group Lasso with Overlap and Graph Lasso	2009	1	1	1	1	0	0	1	0	
+Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication	2019	1	1	0	1	0	0	0	0	
+XLNet: Generalized Autoregressive Pretraining for Language Understanding	2019	1	1	0	0	0	1	0	0	
+PointCNN: Convolution On X-Transformed Points	2018	1	1	1	1	0	1	0	0	
+Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers	2018	1	1	1	0	0	1	0	0	
+Data-Efficient Hierarchical Reinforcement Learning	2018	0	0	0	0	0	1	0	0	
+Adversarial Logit Pairing	2018	0	0	0	0	0	1	0	0	
+"Neural Tangent Kernel:
+Convergence and Generalization in Neural Networks"	2018	1	1	1	1	0	0	0	0	
+Unlabeled Data Improves Adversarial Robustness	2019	1	1	0	0	0	0	0	0	
+"Generalization Bounds of Stochastic Gradient
+Descent for Wide and Deep Neural Networks"	2019	1	1	0	0	0	0	0	0	
+Confidence-weighted linear classification	2008	1	1	0	0	0	1	0	0	
+Learning diverse rankings with multi-armed bandits	2008	1	1	0	0	0	0	0	0	
+Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design	2009	1	1	1	1	0	0	0	0	
+Curriculum learning	2009	1	0	1	1	0	0	1	1	NEC / Montreal
+Online dictionary learning for sparse coding	2009	1	1	1	1	0	0	0	0	
+Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations	2009	1	1	0	0	0	0	0	0	
+Adversarial Examples Are a Natural Consequence of Test Error in Noise	2019	0	0	0	0	0	1	0	0	
+Simplifying Graph Convolutional Networks	2019	1	1	1	1	0	0	0	0	
+MASS: Masked Sequence to Sequence Pre-training for Language Generation	2019	1	0	1	1	0	1	0	0	
+Learning Non-Linear Combinations of Kernels	2009	0	0	0	0	0	1	1	0	
+Slow Learners are Fast	2009	1	1	0	1	0	1	0	0	
+Isolating Sources of Disentanglement in VAEs	2018	1	1	0	0	0	0	1	0	
+Neural Ordinary Differential Equations	2018	1	1	0	0	0	0	1	0	
+Glow: Generative Flow with Invertible 1×1 Convolutions	2018	0	0	0	0	0	1	0	0	
+Defending Against Neural Fake News	2019	1	1	0	0	0	0	1	0	
+Do ImageNet Classifiers Generalize to ImageNet?	2019	1	1	0	0	0	0	0	0	
+Evaluation Methods for Topic Models	2009	1	1	0	0	0	0	0	0	
+Learning with Structured Sparsity	2009	1	0	1	0	0	0	0	1	Rutgers, UT Arlington
+Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo	2008	1	1	0	0	0	0	0	0	
+Efficient Projections onto the ℓ1-Ball for Learning in High Dimensions	2008	0	0	0	0	0	1	1	0	
+Adversarial Examples are not Bugs, they are Features	2019	1	1	0	0	0	0	0	0	
+MixMatch: A Holistic Approach to Semi-Supervised Learning	2019	0	0	0	0	0	1	0	0	
+SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems	2019	1	1	0	0	0	1	0	0	
+Measuring Invariances in Deep Networks	2009	1	1	0	0	0	0	0	0	
+NAS-Bench-101: Towards Reproducible Neural Architecture Search	2019	1	0	1	1	0	1	0	0	
+Using Pre-Training Can Improve Model Robustness and Uncertainty	2019	1	1	1	1	0	0	0	0	
+Efficient Large-Scale Distributed Training of Conditional Maximum Entropy Models	2009	1	0	1	0	0	1	1	0	
+Error Feedback Fixes SignSGD and other Gradient Compression Schemes	2019	1	1	0	1	0	0	0	0	
+Gaussian-process factor analysis for low-dimensional single-trial analysis of neural population activity	2008	1	1	1	1	0	0	0	0	
+Self-Attention Generative Adversarial Networks	2018	1	0	1	0	0	1	0	0	
+A Convergence Theory for Deep Learning via Over-Parameterization	2018	1	1	0	0	0	1	0	0	
+Listwise Approach to Learning to Rank - Theory and Algorithm	2008	1	0	1	1	0	1	0	0	
+Cross-lingual Language Model Pretraining	2019	0	0	1	1	0	1	0	0	
+Wide Neural Networks of Any Depth Evolve asLinear Models Under Gradient Descent	2019	0	0	0	0	0	1	0	0	
+How Does Batch Normalization Help Optimization?	2018	1	1	0	0	0	0	0	0	
+Adversarially Robust Generalization Requires More Data	2018	1	1	0	0	0	1	0	0	
+Video-to-Video Synthesis	2018	1	1	0	0	0	1	0	0	
+"BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling
+"	2019	1	0	1	1	0	1	0	0	
+Efficient Neural Architecture Search via Parameter Sharing	2018	1	1	0	0	0	1	0	0	
+Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples	2018	1	1	0	0	0	0	0	0	
+On the Complexity of Linear Prediction: Risk Bounds, Margin Bounds, and Regularization	2008	1	0	1	0	0	0	0	1	TTI
+"Unified Language Model Pre-training for
+Natural Language Understanding and Generation"	2019	0	0	0	0	0	1	0	0	
+Adversarial Training for Free!	2019	1	1	1	0	1	0	0	0	
+Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data	2019	1	1	1	0	0	0	0	0	
+Kernel Methods for Deep Learning	2009	1	1	0	0	0	0	0	0	
+Nonparametric Latent Feature Models for Link Prediction	2009	1	1	0	0	0	0	0	0	
+3D Object Recognition with Deep Belief Nets	2009	1	1	0	0	0	0	0	0	
+Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks	2019	1	1	0	0	0	0	0	0	
+Certified Adversarial Robustness via Randomized Smoothing	2019	1	1	0	0	0	0	1	0	
+Theoretically Principled Trade-off between Robustness and Accuracy	2019	1	1	1	0	0	1	1	0	
+Gradient Descent Finds Global Minima of Deep Neural Networks	2018	1	1	0	1	0	0	0	0	
+"Stronger generalization bounds for deep nets via a compression
+approach"	2018	1	1	1	0	0	0	0	0	
+Black-box Adversarial Attacks with Limited Queries and Information	2018	1	1	0	0	0	0	0	0	
+A Dual Coordinate Descent Method for Large-scale Linear SVM	2008	1	0	1	1	0	1	0	0	
+"Training Restricted Boltzmann Machines using Approximations to
+the Likelihood Gradient"	2008	1	1	0	0	0	0	0	0	
+Classification using Discriminative Restricted Boltzmann Machines	2008	1	0	1	0	0	0	0	1	Montreal
+"Grassmann Discriminant Analysis:
+a Unifying View on Subspace-Based Learning"	2008	1	1	0	0	0	0	0	0	
+ViLBERT: Pretraining Task-Agnostic VisiolinguisticRepresentations for Vision-and-Language Tasks	2019	1	1	1	0	0	1	0	0	
+Large-scale deep unsupervised learning using graphics processors	2009	1	1	0	0	0	0	0	0	
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor	2018	1	1	0	0	0	0	0	0	
+Exploring Large Feature Spaces with Hierarchical Multiple Kernel Learning	2008	1	1	0	1	0	0	0	0	
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks	2019	0	0	0	0	0	1	0	0	
