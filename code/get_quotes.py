@@ -11,7 +11,7 @@ np.random.seed(0)
 
 type=2 #0=hierarchy, 1=no hiearchy, 2=all
 
-annotations_loc="/home//workspace/Values_Of_ML/data/raw_annotations"
+annotations_loc="/home/willie/workspace/Values_Of_ML/data/raw_annotations"
 
 sheets=[]
 names=[]
@@ -33,12 +33,12 @@ names=[]
 #             print(paper)
 #         sheets.append(sheet._values)
 #         names.append(name)
-# pickle.dump((names,sheets), open('/home//workspace/Values_Of_ML/data/loaded_sheets.p', 'wb'))
+# pickle.dump((names,sheets), open('/home/willie/workspace/Values_Of_ML/data/loaded_sheets.p', 'wb'))
 
-names, sheets=pickle.load(open('/home//workspace/Values_Of_ML/data/loaded_sheets.p', 'rb'))
+names, sheets=pickle.load(open('/home/willie/workspace/Values_Of_ML/data/loaded_sheets.p', 'rb'))
 start_ind=28
 
-assignments=pd.ExcelFile("/home//workspace/Values_Of_ML/data/Assignments.xlsx").parse("Sheet1")._values
+assignments=pd.ExcelFile("/home/willie/workspace/Values_Of_ML/data/Assignments.xlsx").parse("Sheet1")._values
 paper_names=assignments[3:,3]
 unique_paper_names=[]
 for pn in paper_names:

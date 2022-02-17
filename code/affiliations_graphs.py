@@ -22,7 +22,7 @@ def autolabel(rects, label):
                     textcoords="offset pixels",
                     ha='center', va='bottom', rotation=0, position=(0,-37), fontsize=9)
         
-with open('/home//workspace/Values_Of_ML/data/paper_affiliations.tsv', newline='') as f:
+with open('/home/willie/workspace/Values_Of_ML/data/paper_affiliations.tsv', newline='') as f:
     reader=csv.reader(f, delimiter="\t")
     data=list(reader)
 
@@ -53,7 +53,7 @@ current_affils=100*current_affils/total_current
 # dallas_affil_data=dallas_affil_data[1:, 2:-1].astype(np.float64)
 # dallas_affil_data=np.sum(dallas_affil_data, axis=1)
 
-affiliations_sheet="/home//workspace/Values_Of_ML/data/Corporate Ties.xlsx"
+affiliations_sheet="/home/willie/workspace/Values_Of_ML/data/Corporate Ties.xlsx"
 
 sheets=[]
   
@@ -63,9 +63,9 @@ for sheet_name in annotations.sheet_names:
     sheet=annotations.parse(sheet_name)
     sheets.append(sheet._values)
             
-pickle.dump(sheets, open('/home//workspace/Values_Of_ML/data/loaded_affiliations_sheets.p', 'wb'))
+pickle.dump(sheets, open('/home/willie/workspace/Values_Of_ML/data/loaded_affiliations_sheets.p', 'wb'))
 
-sheets=pickle.load(open('/home//workspace/Values_Of_ML/data/loaded_affiliations_sheets.p', 'rb'))
+sheets=pickle.load(open('/home/willie/workspace/Values_Of_ML/data/loaded_affiliations_sheets.p', 'rb'))
 u=0
 
 

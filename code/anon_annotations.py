@@ -10,12 +10,12 @@ np.random.seed(0)
 
 type=2 #0=hierarchy, 1=no hiearchy, 2=all
 
-annotations_loc="/home//workspace/Values_Of_ML/data/raw_annotations"
+annotations_loc="/home/willie/workspace/Values_Of_ML/data/raw_annotations"
 
 sheets=[]
 names=[]
  
-names, sheets=pickle.load(open('/home//workspace/Values_Of_ML/data/loaded_sheets.p', 'rb'))
+names, sheets=pickle.load(open('/home/willie/workspace/Values_Of_ML/data/loaded_sheets.p', 'rb'))
 start_ind=28
 
 if type==0:
