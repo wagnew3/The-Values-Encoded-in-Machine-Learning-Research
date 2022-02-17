@@ -1,9 +1,14 @@
 # The Values Encoded in Machine Learning Research
 
-## Paper
+*[Paper]()*
 
-### bibtex
-
+*Bibtex*\
+@article{valuesInML2021,\
+  title={The Values Encoded in Machine Learning Research},\
+  author={Birhane, Abeba and Kalluri, Pratyusha and Card, Dallas and Agnew, William and Dotan, Ravit and Bao, Michelle},\
+  journal={arXiv preprint arXiv:},\
+  year={2021}\
+}
 
 ## Abstract
 
@@ -11,6 +16,7 @@ Machine learning (ML) currently exerts an outsized influence on the world, incre
 
 # Code and Annotations
 
-annotations_anon.xlsx: raw annotations
+- annotations_anon.xlsx: raw annotations
+- code-for-appendix.zip: replication code for experiments in Appendix
 
 
