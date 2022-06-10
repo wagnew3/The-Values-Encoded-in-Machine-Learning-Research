@@ -1,0 +1,63 @@
+Value,Percent of papers
+Performance,96.0
+Generalization,89.0
+Building on past work,88.0
+Quantitative evidence (e.g. experiments),85.0
+Efficiency,84.0
+Novelty,77.0
+Understanding (for researchers),57.0
+Applies to real world,56.0
+Formal description/analysis,54.0
+Simplicity,53.0
+Identifying limitations,46.0
+Theoretical guarantees,46.0
+Large scale,43.0
+Unifying ideas or integrating components,42.0
+Scientific methodology,42.0
+Used in practice/Popular,38.0
+Approximation,37.0
+Effectiveness,36.0
+Robustness,35.0
+Qualitative evidence (e.g. examples),34.0
+Generality,33.0
+Successful,33.0
+Scales up,30.0
+Improvement,28.0
+Useful,25.0
+Facilitating use (e.g. sharing code),24.0
+Parallelizability / distributed,19.0
+Promising,17.0
+Practical,17.0
+Exactness,16.0
+Requires few resources,15.0
+Preciseness,15.0
+Easy to implement,13.0
+Beneficence,13.0
+Interpretable (to users),12.0
+Realistic output,12.0
+Easy to work with,12.0
+Automatic,11.0
+Progress,11.0
+Human-like mechanism,9.0
+Security,8.0
+Learning from humans,8.0
+Realistic world model,8.0
+Controllability (of model owner),7.0
+Concreteness,7.0
+Deferral to humans,6.0
+Critique,5.0
+Principled,4.0
+Privacy,3.0
+Reproducibility,3.0
+Explicability,2.0
+User influence,2.0
+Non-maleficence,2.0
+Not socially biased,2.0
+Transparent (to users),1.0
+Justice,1.0
+Respect for Law and public interest,1.0
+Fairness,1.0
+Collective influence,1.0
+Autonomy (power to decide),0.0
+Respect for Persons,0.0
+Critiqability,0.0
